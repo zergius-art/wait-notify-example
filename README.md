@@ -1,3 +1,5 @@
 # wait-notify-example
 Simple example for show how wait/notify methods work
-Now it has three Threads and waiter calls notify() too
+It has three Threads and waiter calls notify() too
+
+I'll try to split it to separate classes
